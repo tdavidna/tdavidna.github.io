@@ -1,5 +1,5 @@
 ---
-title: "[Project 6 - Student Performance in Exams] (https://github.com/tdavidna/DSC680/blob/main/3.2_Exercise.ipynb)"
+title: "Project 6 - Student Performance in Exams"
 excerpt: "Prediction of student’s performance became an important need in most of educational institutes. Main purpose is to help at-risk students and ensure their retention, providing the excellent learning resources and experience, and improving the university’s ranking and reputation. This task is not easy and that might be difficult to be achieved for small and new universities, particularly those which are specialized in graduate and post graduate programs and have small student dataset and records for analysis."
 collection: portfolio
 ---
