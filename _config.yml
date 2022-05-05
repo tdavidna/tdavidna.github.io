@@ -14,7 +14,7 @@ description              : &description "personal description"
 url                      : https://tdavidna.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tdavidna/tdavidna.github.io"
-teaser                   :  "David_1.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "David_4.png"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -85,8 +85,8 @@ author:
   bio              : "Data Engineer"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,16 +94,16 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         :  https://www.facebook.com/david.nallathambi/
   foursquare       :
-  github           : "academicpages"
+  github           : "tdavidna"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :  https://www.linkedin.com/feed/
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
