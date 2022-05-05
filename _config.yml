@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David Selvaraj / Site Title"
+title                    : "David's Portfolio"
 title_separator          : "-"
 name                     : &name "David Selvaraj"
 description              : &description "personal description"
