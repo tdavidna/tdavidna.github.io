@@ -17,17 +17,19 @@ David has a holistic view of issues and solutions in the Information Management 
 
 Areas of Competency
 ======
-	ETL Architect and Solution expert in the DW&BI space using Informatica, Ab>Initio.</br>
-	Enterprise Data Warehouse Solution Architecture including Data Vault and Dimensional Modeling</br>
-	Requirements gathering and Effort estimation for solutioning. </br>
-	Performed detailed transformation design, impact analysis, source to target mapping.
+-> ETL Architect and Solution expert in the DW&BI space using Informatica, Ab>Initio.
+
+-> Enterprise Data Warehouse Solution Architecture including Data Vault and Dimensional Modeling.
+
+-> Requirements gathering and Effort estimation for solutioning.
+
+-> Performed detailed transformation design, impact analysis, source to target mapping.
 
 
 Education
 ======
-Master’s in Data Science – Bellevue, NE (In Progress)</br>
-Master’s in computer applications – (INDIA)
+-> Master’s in Data Science – Bellevue, NE
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-> Master’s in computer applications – (INDIA)
+
+
