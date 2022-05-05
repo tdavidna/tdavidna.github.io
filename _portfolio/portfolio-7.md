@@ -1,5 +1,5 @@
 ---
-title: "Project 7 - Sentiment Analysis Steps"
+title: "[Project 7 - Sentiment Analysis Steps](https://github.com/tdavidna/DSC680/blob/main/4.2_Exercise.ipynb)"
 excerpt: "Approach that the TextBlob package applies to sentiment analysis differs in that it is rule-based and therefore requires a pre-defined set of categorized words. Textblob sentiment analyzer returns two properties for a given input sentence. Polarity is a float that lies between (1,-1), -1 indicates negative sentiment and +1 indicates positive sentiments. Subjectivity is also a float which lies in the range of (0,1). Subjective sentences generally refer to opinion, emotion, or judgment."
 collection: portfolio
 ---
