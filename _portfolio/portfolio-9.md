@@ -1,5 +1,5 @@
 ---
-title: "[Project 9 - EDA using Python Charts](https://github.com/tdavidna/DSC680/blob/main/11.2_Project_Milestone_5.ipynb)"
+title: "[Project 9 - EDA using Python Charts](https://github.com/tdavidna/DSC680/blob/main/DSC640_3.2_Exercise.ipynb)"
 excerpt: "Exploratory Data Analysis is applied to explore the data and condense the key insights. It will give the basic understanding of the data, it’s distribution, null values and much more. You can either explore data using graphs or through some python functions. Univariate and Bivariate are the two types of data analysis. In the univariate, you will be analyzing a single attribute. But in the bivariate, you will be analyzing an attribute with the target attribute."
 collection: portfolio
 ---
