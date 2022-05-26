@@ -1,6 +1,6 @@
 ---
-title: "Project 4 - Stock Price Prediction"
-excerpt: "Prediction of stock market performance is one of the most difficult things to do. There are so many factors involved in the prediction – physical factors vs. physhological, rational and irrational behavior, etc. All these aspects combine to make share prices instable and very difficult to predict with a high degree of accuracy. Stock price forecast is the most crucial component for investors and companies to predict future revenues and any possible negative earnings. The essence of the stock market investments involves high risk and high profits; thus, it is a source of attraction to many businesses, investors and economists."
+title: "[Project 4 - Walmart Sales Forecasting]"()
+excerpt: "Predicting future sales for a company is important aspects of strategic planning and Walmart is the best example for analysis as it has the most retail data set. Also, Walmart used this sales prediction problem for development purposes too. Planning to use 3 years of data with 45 Walmart stores across the country in this analysis. Each store contains multiple departments and predicting the department-wide sales for each store. It is important to have additional data in the region of store which, helps to make a more detailed analysis."
 collection: portfolio
 ---
 
