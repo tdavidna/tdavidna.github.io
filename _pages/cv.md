@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Master’s in Data Science – Bellevue, NE
+* Master’s in computer applications – (INDIA)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* For Mutual of Omaha, USA. David played a major role in the design of Model Repository system which helps the actuaries to analyse and model projections.
+* For First Data in USA, David played major role in the migration project to provide analytical and reporting solution for closed loop pre-paid gift cards.
+* For CapitalOne in USA, David involved in the analytical solution for different subject areas like Internet, Capital One Auto Finance and Customer Overview.
+* For Goldfish Card Services, UK, David played major role in DW & Reporting solution to handle the card transactions and promotes third party credit cards like Travelex, Black Horse, Leeds and Holbeck.
+* For Discover Financial services, USA. David involved in the development and support of Merchant Decision Support System which is a highly standardized analytical reporting based on aggregated transactional process which is used by credit card network business.
+* For American Express, USA. David was part of the development team to support Global Data File System, which handles credit card transactions and generate reports based on user criteria for analysis and decision making.
