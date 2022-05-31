@@ -26,10 +26,5 @@ Areas of Competency
 -> Performed detailed transformation design, impact analysis, source to target mapping.
 
 
-Education
-======
--> Master’s in Data Science – Bellevue, NE
-
--> Master’s in computer applications – (INDIA)
 
 
